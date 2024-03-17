@@ -14,8 +14,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-💻 [Project_Blog](https://velog.io/@chicken1324/posts)<br>
-📚 [Study_Blog](https://studychickenman.tistory.com)<br>
+💻 [ProjectBlog](https://velog.io/@chicken1324/posts)<br>
+📚 [StudyBlog](https://studychickenman.tistory.com)<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH-Ko76&show_icons=true&theme=tokyonight)
