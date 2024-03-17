@@ -1,11 +1,10 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH-Ko76&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[Study_Blog] (https://studychickenman.tistory.com)
-[Project_Blog] (https://velog.io/@chicken1324/posts)
+[Study_Blog] (https://studychickenman.tistory.com)<br>
+[Project_Blog] (https://velog.io/@chicken1324/posts)<br>
 
-💪 Skills
-Platforms & Languages
+💪 Skills <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
