@@ -1,8 +1,6 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJH-Ko76&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[Study_Blog] (https://studychickenman.tistory.com)<br>
-[Project_Blog] (https://velog.io/@chicken1324/posts)<br>
 
 💪 Skills <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,6 +13,9 @@
 ⚙ Tools <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+💻 Project_Blog (https://velog.io/@chicken1324/posts)<br>
+📚 Study_Blog (https://studychickenman.tistory.com)<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH-Ko76&show_icons=true&theme=tokyonight)
