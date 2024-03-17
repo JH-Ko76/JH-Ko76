@@ -12,11 +12,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-⚙ Tools
+⚙ Tools <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH-Ko76&show_icons=true&theme=tokyonight)
 <!--
 **JH-Ko76/JH-Ko76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
