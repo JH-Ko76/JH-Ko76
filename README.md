@@ -25,7 +25,7 @@
 📁 other <br>
 💻 [ProjectBlog](https://velog.io/@chicken1324/posts)<br>
 📚 [StudyBlog](https://studychickenman.tistory.com)<br>
-
+📩 [LinkedIn](https://www.linkedin.com/in/jounghyun-ko-%EA%B3%A0%EC%A0%95%ED%98%84-bb4051205/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JH-Ko76&show_icons=true&theme=tokyonight)
 <!--
