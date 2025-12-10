@@ -14,7 +14,7 @@
 
 📁 other <br>
 📚 [Study Blog](https://studychickenman.tistory.com/category/%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)<br>
-📩 [LinkedIn](https://www.linkedin.com/in/jounghyun-ko-%EA%B3%A0%EC%A0%95%ED%98%84-bb4051205/)
+📩 [LinkedIn](https://www.linkedin.com/in/jounghyun-ko-%EA%B3%A0%EC%A0%95%ED%98%84-bb4051205/)<br>
 🛠️ [Resume](-ko76.github.io)
 <!--
 **JH-Ko76/JH-Ko76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
