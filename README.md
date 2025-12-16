@@ -1,8 +1,8 @@
 ### Hi there 👋
-<p> Welcome to My GitHub Profile!!! 😄 </p>
+<p> Welcome to My GitHub Profile 😄 </p>
 <p> I am Joung Hyun I live in Osaka, Japan </p>
 
-💪 Skills <br>
+⚙ Skills <br>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white">
 
 
