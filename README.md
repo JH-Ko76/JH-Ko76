@@ -11,6 +11,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+!<img src="https://img.shields.io/badge/Vite-purpple?style=for-the-badge&logo=Vite&logoColor=white">
 
 📁 other <br>
 📚 [Study Blog](https://studychickenman.tistory.com/category/%EA%B3%B5%EB%B6%80/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)<br>
